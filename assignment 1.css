@@ -1,0 +1,28 @@
+body {
+    background-color: whitesmoke;
+}
+* {
+    font-family: "roboto condensed", sans-serif;
+}
+
+
+
+h1 {
+    text-align: center;
+    font-size: 45px; 
+    color: darksalmon
+}
+
+h2 {
+    text-align: center;
+    color: darksalmon;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
